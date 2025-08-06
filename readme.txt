@@ -28,4 +28,4 @@ Step 10th. Password: username:admin / password :admin123
 
 create your own staff
 Author 
-**Shrishti Singh**
+Shrishti Singh
