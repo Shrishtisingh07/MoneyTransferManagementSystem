@@ -1,36 +1,31 @@
-Free Download Source Code "Online Money Transfer Management System"
+Online Money Transfer Management System
 
-FIRST Download
+It's a PHP-based money transfer management system. This project is a web-based application which provides the business organization that sends money an online platform. This oversees customer transactions for the business and connects to all branches. This will make it easier to maintain and conveniently obtain the transaction records for the aforementioned business by centralizing them. This is user-friendly and includes a straightforward dark mode user interface.
 
-1.XAMPP
+**How to setup this project**
 
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
+Step 1st. Download xampp
 
-3"mtms"
+Step 2nd. Text editor notepad++ or Sublime
 
-4. Download the zip file/ download winrar
+Step 3rd. Download the zip file/ Download winrar
 
-5. Extract the file and copy "mtms" folder
+Step 4th. Extract the file and copy “mtms”
 
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
+” folder
 
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
+Step 5th. Paste inside root directory/ where you install xampp local disk C: drive D: drive E: paste: for xampp/htdocs,
 
-8. Create a database with name mtms_db
+Step 6th. Open PHPMyAdmin http://localhost/phpmyadmin
 
-6. Import mtms_db.sql file(given inside the zip package in SQL file folder)
+Step 7th. Create database name mtms_db
 
-7.Run the script http://localhost/mtms
+Step 8th. Import mtms_db.sql file given inside the zip package in SQL file folder
 
+Step 9th. Run the script http://localhost/mtms
 
-**LOGIN DETAILS** 
-
-
-Admin
-user: admin
-pass: admin123
+Step 10th. Password: username:admin / password :admin123
 
 create your own staff
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
+Author 
+**Shrishti Singh**
